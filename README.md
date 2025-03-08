@@ -4,12 +4,12 @@ A web-based real-time stock price dashboard built with **Dash**, **Plotly**, and
 
 ---
 
-## 🚀 Features
-- 📈 Real-time stock price updates (every minute)
-- 🔍 Select stock symbols from a dropdown
-- 📊 Interactive line chart for stock prices
-- ⚡ Fast and responsive UI
-- 🌍 Deployable on **Heroku**
+##  Features
+-  Real-time stock price updates (every minute)
+-  Select stock symbols from a dropdown
+-  Interactive line chart for stock prices
+-  Fast and responsive UI
+-  Deployable on **Heroku**
 
 ---
 
